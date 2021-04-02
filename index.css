@@ -1,0 +1,28 @@
+/* style for random color background */
+
+body{
+    text-align: center;
+}
+header{
+    margin: 100px auto;
+    padding: 5px 15px 5px 15px;
+    width: max-content;
+    height: auto;
+    border: solid;
+    border-color: #483d8b;
+    background-color: rgba(221, 221, 221, 0.7);
+    color: #483d8b; 
+    border-radius: 6% / 50%;
+}
+h1{
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+button{
+    padding: 40px 20px;
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-color: black;
+    border-radius: 50%;
+    background-color: salmon;
+}
